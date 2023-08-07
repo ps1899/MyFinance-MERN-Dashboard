@@ -198,10 +198,8 @@ const Row3 = () => {
           ></Box>
         </Box>
         <Typography margin="0 1rem" variant="h6">
-          Orci aliquam enim vel diam. Venenatis euismod id donec mus lorem etiam
-          ullamcorper odio sed. Ipsum non sed gravida etiam urna egestas
-          molestie volutpat et. Malesuada quis pretium aliquet lacinia ornare
-          sed. In volutpat nullam at est id cum pulvinar nunc.
+          According to MyFinance Dashboard app,  
+          The revenues are up and losses are down which shows that the company is on right track to manage the finances.
         </Typography>
       </DashboardBox>
     </>
